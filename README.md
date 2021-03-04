@@ -299,3 +299,23 @@ while count < 5:
     print(count)
     count += 1  # This is the same as count = count + 1
 ```
+
+## Fungsi
+Fungsi adalah cara mudah untuk membagi kode Anda menjadi blok yang berguna, mudah dibaca, dan dapat digunakan kembali. Adapun cara membuat fungsi adalah sebagai berikut:
+- Fungsi tanpa parameter
+```python
+def my_function():
+    print("Hello From My Function!")
+
+my_function()
+```
+
+- Fungsi dengan parameter
+
+```python
+def my_function(a,b):
+    print("Nilai a", a)
+    print("Nilai b", b)
+
+my_function(1,"bayu")
+```
