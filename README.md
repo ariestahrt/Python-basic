@@ -319,3 +319,19 @@ def my_function(a,b):
 
 my_function(1,"bayu")
 ```
+
+## Penugasan
+
+Kerjakan soal-soal berikut dengan bahasa python:
+1. https://www.spoj.com/problems/CPTTRN1/
+2. https://www.spoj.com/problems/ATOMS/
+3. https://www.spoj.com/problems/HANGOVER/
+4. Soal SPOJ bebas
+
+Lalu buat laporan berisi
+- Abstraksi Narasi
+- Analisa Solusi
+- Implementasi (Kode Program)
+- Hasil Submit
+
+Dalam bentuk pdf
