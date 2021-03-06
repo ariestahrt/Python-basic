@@ -334,4 +334,9 @@ Lalu buat laporan berisi
 - Implementasi (Kode Program)
 - Hasil Submit
 
-Dalam bentuk pdf
+Dalam bentuk .pdf
+
+Untuk pengumpulan nya di jadikan zip/rar isinya ada 5 file (4 python sama 1 pdf) untuk penamaan zip nya NRP_NAMA.zip. file python di namakan sesuai nama soal contoh: ATOMS.py. untik laporannya laporan.pdf
+Untuk deadline nya selasa 23:59.
+
+https://forms.gle/jQQVgAA91VrfPsX47
